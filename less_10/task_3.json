@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5d54f1ad45b3e005d7bb0dcb"},"name":"Intel Core i3-600","description":"Процессор для настольных компов","price":{"$numberInt":"7890"},"catalog_id":{"$numberInt":"1"}}
+{"_id":{"$oid":"5d54f2f16abe4a05d75f603a"},"name":"Intel Core i2-500","description":"Процессор для настольных компов","price":{"$numberInt":"12700"},"catalog_id":{"$numberInt":"1"}}
+{"_id":{"$oid":"5d54f3206abe4a05d75f603b"},"name":"ASUS","description":"Материнская плата","price":{"$numberInt":"4780"},"catalog_id":{"$numberInt":"2"}}
+{"_id":{"$oid":"5d54f3426abe4a05d75f603c"},"name":"Apple","description":"Материнская плата","price":{"$numberInt":"50500"},"catalog_id":{"$numberInt":"2"}}
